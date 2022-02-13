@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tasarimOdev</string>
+    <string name="bedenYazi1">small</string>
+    <string name="bedenYazi2">medium</string>
+    <string name="bedenYazi3">large</string>
+    <string name="bedenYazi4">Extra Large</string>
+    <string name="buttonYazi">ADD TO CHART</string>
+    <string name="ürünYazi">Coat</string>
+    <string name="ürünFiyati">$ 149.99</string>
+    <string name="ürünAciklama">Our coat are available in 3 colors.You can custom order a built-in arch support for any of the models.</string>
+    <string name="bedenYazi">Size :</string>
+</resources>

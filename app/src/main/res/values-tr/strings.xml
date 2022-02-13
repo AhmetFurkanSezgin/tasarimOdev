@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tasarimOdev</string>
+    <string name="bedenYazi1">küçük</string>
+    <string name="bedenYazi2">orta</string>
+    <string name="bedenYazi3">geniş</string>
+    <string name="bedenYazi4">çok geniş</string>
+    <string name="buttonYazi">SEPETE EKLE</string>
+    <string name="ürünYazi">Kaban</string>
+    <string name="ürünFiyati">2028.99 TL</string>
+    <string name="ürünAciklama">Montumuz 3 renkte mevcuttur. Herhangi bir model için gömme kemer desteği sipariş edebilirsiniz.</string>
+    <string name="bedenYazi">Beden :</string>
+</resources>
